@@ -1,0 +1,23 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "Hangman game home work",
+  "main": "main.js",
+  "scripts": {
+    "test": "months"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajijacob/hangman.git"
+  },
+  "keywords": [
+    "january",
+    "february"
+  ],
+  "author": "saji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajijacob/hangman/issues"
+  },
+  "homepage": "https://github.com/sajijacob/hangman#readme"
+}
